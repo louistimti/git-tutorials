@@ -1,4 +1,4 @@
 # git-tutorials
 
-# Tutorials on how to use git and it's different commands
-# ...
+Hey, these are tutorials on how to use git and it's different commands
+...
